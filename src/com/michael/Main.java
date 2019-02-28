@@ -16,7 +16,4 @@ public class Main {
             System.out.println(view.getLine(i));
         }
     }
-
-    public static void drawPlayer()
-
 }
