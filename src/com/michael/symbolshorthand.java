@@ -3,11 +3,11 @@ package com.michael;
 public enum symbolshorthand {
     TIP("/\\"),
     LSLANT("//"),
-    RSLANT(`\\`),
+    RSLANT("\\\\"),
     BOX("["),
     BLANK(" "),
-    SMILE(`😊`),
-    TABLE(`┬─┬`);
+    SMILE("😊"),
+    TABLE("┬─┬");
 
     private char[] chars;
 
